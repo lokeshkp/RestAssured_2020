@@ -1,0 +1,44 @@
+{
+	"instructor": "Om SriRam",
+	"url": "world.org",
+	"services": "countrydetail",
+	"expertise": "eveywhere",
+	"countries": {
+		"india": [
+			{
+				"states": [
+					{
+						"ap": "Amaravathi",
+						"ka": "Bangalore",
+						"ts": "Hyderabad"
+					}
+				],
+				"districts": [
+					{
+						"eg": "kkd",
+						"wg": "eluru",
+						"vsp": "visaka"
+					}
+				]
+			}
+		],
+		"usa": [
+			{
+				"counties": [
+					{
+						"ny": "newyork",
+						"wt": "washingtone",
+						"my": "maryland"
+					}
+				],
+				"zones": [
+					{
+						"mn": "minnspta",
+						"cy": "calniforiya",
+						"be": "bosen"
+					}
+				]
+			}
+		]
+	}
+}

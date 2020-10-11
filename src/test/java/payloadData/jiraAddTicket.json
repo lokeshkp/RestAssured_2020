@@ -1,0 +1,12 @@
+{
+   "fields":{
+      "project":{
+         "key":"RES"
+      },
+      "summary":"Test SaiRam",
+      "description":"Creating My First Defect",
+      "issuetype":{
+         "name":"Bug"
+      }
+   }
+}
